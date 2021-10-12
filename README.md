@@ -34,7 +34,9 @@
   - 
         
 - 2순위
-  - 가변저항으로 
+  - 아두이노 우노 펌웨어 내장 브레드보드
+  
+  - 가변저항으로 PID 이해하는 제어공학 학습용 키트
 
   - HAM용 로테이터
     - 2축 로터리 : https://ko.aliexpress.com/item/1005003231527519.html?spm=a2g0o.productlist.0.0.56954da1vt6xaZ&algo_pvid=aa533965-b38a-4aea-9758-f73783b82e62&algo_exp_id=aa533965-b38a-4aea-9758-f73783b82e62-30&pdp_ext_f=%7B%22sku_id%22%3A%2212000024766033119%22%7D
