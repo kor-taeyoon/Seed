@@ -51,7 +51,7 @@
   - 장착만 해서 활용하는 완성형 드론용 낙하산
     - 드론 낙하산 : https://www.youtube.com/watch?v=ws5RI-KUYc4
 
-  - TJ 유튜브 공식 영상 활용 노래방 기계 제작용 응용 SW
+  - TJ 유튜브 공식 영상 활용 라즈베리파이 
 
 
 <br>
