@@ -7,6 +7,7 @@
 - GUI로 드래그 드롭, 색반전 이미지 자동 저장 (회로도 아카이브용)
 - 광운대학교 중앙도서관 앱, 좌석 반납 1시간 전(연장 가능할 때) 알림 올 수 있게 apk 분석, 수정
   - https://gyuha.github.io/post/2020-05-20-apk-editor-studio/
+  - https://apkpure.com/kr/%EA%B4%91%EC%9A%B4%EB%8C%80%ED%95%99%EA%B5%90-%EC%A4%91%EC%95%99%EB%8F%84%EC%84%9C%EA%B4%80/idoit.slpck.kwangwoon
 
 
 
